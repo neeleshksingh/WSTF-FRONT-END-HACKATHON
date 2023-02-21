@@ -7,10 +7,10 @@ const Dashboard = () =>{
             <div className='all-user'>
                 <div className='all-user-1'>
                     <h3 className='font-pop h3-2'>All users</h3>
-                    <p className="font-robo">Details </p>
+                    <p className="font-robo">Details &#62;</p>
                 </div>
                 <div>
-                    <h1 className='font-pop user-count'>24444</h1>
+                    <h1 className='font-pop user-count'>24,444</h1>
                 </div>
             </div>
         </div>

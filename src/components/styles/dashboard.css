@@ -9,11 +9,11 @@
     font-size: 20px;
     line-height: 32px;
     letter-spacing: 0.15px;
-    color: #383874;
 }
 .all-user{
     width: 318px;
     margin-top: 56px;
+    color: #383874;
 }
 .all-user-1{
     display: flex;
