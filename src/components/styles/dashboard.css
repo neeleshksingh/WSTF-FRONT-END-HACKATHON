@@ -1,0 +1,27 @@
+.container{
+    padding-left: 56px;
+    padding-top: 23px;
+    background-color: #E2E4F0;
+    height: 90vh;
+}
+.h3-2{
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 32px;
+    letter-spacing: 0.15px;
+    color: #383874;
+}
+.all-user{
+    width: 318px;
+    margin-top: 56px;
+}
+.all-user-1{
+    display: flex;
+    align-items: center;
+    gap: 24px;
+}
+.user-count{
+    font-weight: 500;
+    font-size: 72px;
+    line-height: 118px;
+}
